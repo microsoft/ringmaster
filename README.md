@@ -4,7 +4,7 @@ Ringmaster is a videoconferencing research platform open-sourced along with our 
 published at NSDI '23 — [Tambur: Efficient loss recovery for videoconferencing via streaming
 codes](https://www.usenix.org/conference/nsdi23/presentation/rudow), where
 Ringmaster serves as the basis for developing and benchmarking forward error
-correction (FEC) schemes in videoconferencing (including Tambur; to be released separately).
+correction (FEC) schemes in videoconferencing released [here](https://github.com/Thesys-lab/tambur).
 
 Ringmaster is designed to be a readable and extensible replacement for WebRTC in videoconferencing
 research, with the goal of supporting more use cases in the future
