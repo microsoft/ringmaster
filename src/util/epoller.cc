@@ -107,7 +107,7 @@ void Epoller::poll(const int timeout_ms)
   do_deregister();
 
   int nfds = check_syscall(
-    epoll_wait(epfd_, event_list, sizeof(event_list), timeout_ms));
+    epoll_wait(epfd_, event_list, MAX_EVENTS, timeout_ms));
 
   for (int i = 0; i < nfds; i++) {
     int fd = event_list[i].data.fd;

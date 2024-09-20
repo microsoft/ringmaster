@@ -2,6 +2,7 @@
 #define SERIALIZATION_HH
 
 #include <cstring>
+#include <cstdint>
 #include <stdexcept>
 #include <string>
 #include <string_view>

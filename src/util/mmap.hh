@@ -2,6 +2,7 @@
 #define MMAP_HH
 
 #include <sys/mman.h>
+#include <cstdint>
 
 class MMap
 {

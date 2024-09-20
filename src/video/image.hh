@@ -5,6 +5,7 @@ extern "C" {
 #include <vpx/vpx_image.h>
 }
 
+#include <cstdint>
 #include <string_view>
 
 // wrapper class for vpx_image of format I420
