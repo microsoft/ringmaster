@@ -11,8 +11,7 @@ research, with the goal of supporting more use cases in the future
 (e.g., congestion control, multiparty conferencing). [Contributions](#contributing) are welcome.
 
 See [below](#emulating-a-video-call) for the basic usage of Ringmaster that emulates a 1:1
-video call. More [documentation](https://github.com/microsoft/ringmaster/wiki/Documentation) is in
-progress. Please contact the owner [Francis Yan](https://francisyyan.org) with any questions for now.
+video call. For any questions, please contact the owner [Francis Yan](https://francisyyan.org).
 
 ## Dependencies
 - Required environment: Ubuntu >=18.04
