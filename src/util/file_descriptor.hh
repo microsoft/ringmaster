@@ -9,6 +9,7 @@
 
 #include <string>
 #include <string_view>
+#include <cstdint>
 
 class FileDescriptor
 {

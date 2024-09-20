@@ -5,6 +5,7 @@
 #include <stdexcept>
 #include <string>
 #include <string_view>
+#include <cstdint>
 
 // convert values from network to host byte order
 inline uint8_t ntoh(uint8_t net) { return net; }

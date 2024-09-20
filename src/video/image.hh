@@ -6,6 +6,7 @@ extern "C" {
 }
 
 #include <string_view>
+#include <cstdint>
 
 // wrapper class for vpx_image of format I420
 class RawImage
